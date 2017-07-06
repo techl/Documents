@@ -47,8 +47,14 @@ Taskbar의 Jump List 수 증대 - 설정 후 바로 적용된다.
 * bandizip.com
 
 
-## Outlook 기본 폴더 위치 변경
+## Outlook 기본 설정
+
+#### 기본 폴더 위치 변경
 
 REG ADD HKCU\Software\Microsoft\Office\16.0\Outlook /t REG_EXPAND_SZ /v ForcePSTPath /d d:\Documents\Mail
 
 REG ADD HKCU\Software\Microsoft\Office\16.0\Outlook /t REG_EXPAND_SZ /v ForceOSTPath /d d:\Documents\Mail
+
+#### 발송 지연 1분 설정 - 잘못 보냈을 경우 취소하기 위함
+
+Rules -> Manage Rules -> New Rule -> Start from a blank rule -> Apply rule on messages I send -> defer delivery by 1 minutes
