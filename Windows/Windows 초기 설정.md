@@ -20,13 +20,17 @@ OneDriver 설치
 
 ## 초기 설정
 
+Taskbar Settings
+
+- Combine taskbar buttons = When taskbar is full
+- Show taskbar buttons on = Taskbar where window is open
+- Combine buttons on other taskbars = When taskbar is full
+
 Edge Pin제거 후 Internet Explorer pin 설정. 
 
 IE설정에서 New Tab 사용. ​Favorites Bar 보이기. 기본 검색 엔진을 Google로 설정.
 
 Google에서 검색 결과 새창에 띄우기 설정
-
-Taskbar 설정 - Combine when taskbar full
 
 Explorer View Options View -> Show hidden files, uncheck Hide extensions for known types
 
