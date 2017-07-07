@@ -20,6 +20,8 @@ OneDriver 설치
 
 ## 초기 설정
 
+Computer Name 설정
+
 Taskbar Settings
 
 - Combine taskbar buttons = When taskbar is full
