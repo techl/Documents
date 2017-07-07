@@ -15,6 +15,8 @@ Hyper-V에서 New Virtual Switch 추가
 
 IP, MAC 설정
 
+OneDriver 설치
+
 
 ## 초기 설정
 
