@@ -44,6 +44,10 @@ Taskbar의 Jump List 수 증대 - 설정 후 바로 적용된다.
 
 > REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced /t REG_DWORD /v JumpListItems_Maximum /d 20
 
+Snap Assist 끄기
+
+- Multitasking Settings에서 "When I snap a window, show what I can snap next to it" Off
+
 
 ## 초기 설치 프로그램
 
