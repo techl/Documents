@@ -50,19 +50,38 @@ Snap Assist 끄기
 
 - Multitasking Settings에서 "When I snap a window, show what I can snap next to it" Off
 
+Language for non-Unicode programs
+
+- Region & language settings -> Additional date, time & regional settings -> Region -> Administrative -> Language for non-Unicode programs -> Change system locale...
 
 ## 초기 설치 프로그램
 
+* Visual Studio 2015 & Update 3 - NetMF용
+* [ThinkPad USB Keyboard with TrakPoint Driver(55Y9025)](https://support.lenovo.com/kr/ko/solutions/migr-73183)
 * [KakaoTalk](http://www.kakao.com/talk/)
 * [Slack](https://slack.com/downloads/windows)
 * [notepad++](https://notepad-plus-plus.org/download)
-* Office
-* [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-* Visual Studio 2015 & Update 3 - NetMF용
+* Office 2016
+  * Outlook 설정
+  * Word, Excel pin to taskbar
+  * Project, Visio 설치
+  * [Language Accessory Pack Korean](https://support.office.com/en-us/article/Language-Accessory-Pack-for-Office-82ee1236-0f9a-45ee-9c72-05b026ee809f)
+* [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - pin to start
 * Visual Studio 2017 & Update
+  * Extensions
+    * Web Essetials 2017
+    * MonoRemoteDebugger
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Bandizip](http://bandizip.com)
-
+* putty : pin to start 설정
+* [Rufus](https://rufus.akeo.ie/)
+* [DWG TrueView - AutoCAD Viewer](https://www.autodesk.com/products/dwg/viewers#)
+* Altium Designer Viewer
+* 한글 Viewer
+* [OrCAD PCB Designer Lite](http://www.orcad.com/resources/orcad-downloads)
+* MDK Lite
+* [AIMP mp3 player](http://www.aimp.ru/)
+* GNU ARM Embedded Toolchain(https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
 
 ## Outlook 기본 설정
 
