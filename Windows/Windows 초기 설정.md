@@ -53,6 +53,8 @@ Snap Assist 끄기
 
 ## 초기 설치 프로그램
 
+* [KakaoTalk](http://www.kakao.com/talk/)
+* [Slack](https://slack.com/downloads/windows)
 * [notepad++](https://notepad-plus-plus.org/download)
 * Office
 * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
