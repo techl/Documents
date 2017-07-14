@@ -100,3 +100,5 @@ Rules -> Manage Rules -> New Rule -> Start from a blank rule -> Apply rule on me
 ### 기타 설정
 
 Outlook Options -> Mail -> Replies and forwards -> Open replies and forwards in a new window 체크
+
+Signature 설정
