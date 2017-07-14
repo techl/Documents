@@ -16,9 +16,9 @@ Hyper-V에서 New Virtual Switch 추가
 
 IP, MAC 설정
 
-OneDriver 설치
-
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+
+Use Developer Features 메뉴에서 Developer mode 선택
 
 ## 초기 설정
 
