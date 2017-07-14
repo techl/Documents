@@ -18,6 +18,7 @@ IP, MAC 설정
 
 OneDriver 설치
 
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
 ## 초기 설정
 
