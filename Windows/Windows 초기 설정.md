@@ -57,8 +57,8 @@ Snap Assist 끄기
 * Office
 * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 * Visual Studio & update
-* Visual Studio Code
-* bandizip.com
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Bandizip](http://bandizip.com)
 
 
 ## Outlook 기본 설정
