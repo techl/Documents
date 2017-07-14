@@ -32,7 +32,7 @@ Taskbar Settings
 
 Edge Pin제거 후 Internet Explorer pin 설정. 
 
-IE설정에서 New Tab 사용. ​Favorites Bar 보이기. 기본 검색 엔진을 Google로 설정.
+IE설정에서 Homepage를 about:Tabs로 설정. ​Favorites Bar 보이기. 기본 검색 엔진을 Google로 설정.
 
 Google에서 검색 결과 새창에 띄우기 설정
 
