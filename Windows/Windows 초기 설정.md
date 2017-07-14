@@ -53,7 +53,7 @@ Snap Assist 끄기
 
 ## 초기 설치 프로그램
 
-* notepad++
+* [notepad++](https://notepad-plus-plus.org/download)
 * Office
 * SQL
 * Visual Studio & update
