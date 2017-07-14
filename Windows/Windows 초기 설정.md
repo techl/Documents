@@ -55,7 +55,7 @@ Snap Assist 끄기
 
 * [notepad++](https://notepad-plus-plus.org/download)
 * Office
-* SQL
+* [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 * Visual Studio & update
 * Visual Studio Code
 * bandizip.com
