@@ -72,6 +72,8 @@ Language for non-Unicode programs
     * Web Essetials 2017
     * MonoRemoteDebugger
     * Code Compare
+    * Microsoft Visual Studio 2017 Installer Projects
+    * Productivity Power Tools VS2017
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Bandizip](http://bandizip.com)
 * putty : pin to start 설정
