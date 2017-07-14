@@ -83,6 +83,7 @@ Language for non-Unicode programs
 * MDK Lite
 * [AIMP mp3 player](http://www.aimp.ru/)
 * GNU ARM Embedded Toolchain(https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
+* [.Net Micro Framework](https://github.com/NETMF/netmf-interpreter/releases)
 
 ## Outlook 기본 설정
 
