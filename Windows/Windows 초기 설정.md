@@ -86,7 +86,7 @@ Language for non-Unicode programs
 * [AIMP mp3 player](http://www.aimp.ru/)
 * GNU ARM Embedded Toolchain(https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
 * [.Net Micro Framework](https://github.com/NETMF/netmf-interpreter/releases)
-
+* [Intel RST](https://downloadcenter.intel.com/download/26865/Intel-Rapid-Storage-Technology-Intel-RST-?product=55005)
 ## Outlook 기본 설정
 
 ### 기본 폴더 위치 변경
