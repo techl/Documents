@@ -87,7 +87,7 @@ Language for non-Unicode programs
 * GNU ARM Embedded Toolchain(https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
 * [.Net Micro Framework](https://github.com/NETMF/netmf-interpreter/releases)
 * [Intel RST](https://downloadcenter.intel.com/download/26865/Intel-Rapid-Storage-Technology-Intel-RST-?product=55005)
-* Acrobat Reader
+* Acrobat
   * SharePoint function disable
     * REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Adobe\Adobe Acrobat\11.0\FeatureLockDown\cSharePoint" /v bDisableSharePointFeatures /t REG_DWORD /d 1
 * [PADS Viewer](https://www.pads.com/downloads/pads-pcb-viewer/)
