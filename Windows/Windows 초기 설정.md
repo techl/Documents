@@ -8,7 +8,11 @@ OneDrive 동기화 폴더 설정
 
 ## 윈도우 구성 요소 추가 설치
 
-IIS, Hyper-V with WebSocket Protocol
+IIS with WebSocket Protocol
+
+Hyper-V
+- Enable-WindowsOptionalFeature -Online -FeatureName:Microsoft-Hyper-V -All
+
 
 Telnet Client
 
