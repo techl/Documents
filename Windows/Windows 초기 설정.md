@@ -58,6 +58,13 @@ Language for non-Unicode programs
 
 - Region & language settings -> Additional date, time & regional settings -> Region -> Administrative -> Language for non-Unicode programs -> Change system locale...
 
+WebDAV 크기 설정
+
+- 1-> 2
+> REG ADD HKLM\SYSTEM\CurrentControlSet\Services\WebClient\Parameters /t REG_DWORD /v BasicAuthLevel /d 2
+- 50 MB -> 4GB
+> REG ADD HKLM\SYSTEM\CurrentControlSet\Services\WebClient\Parameters /t REG_DWORD /v FileSizeLimitInBytes /d 4294967295
+
 ## 초기 설치 프로그램
 
 * Visual Studio 2015 & Update 3 - NetMF용
