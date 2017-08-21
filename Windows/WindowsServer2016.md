@@ -88,7 +88,10 @@ Remote Desktop 설정
 
 DDNS 설정 dnszi.com 참고
 
-
+IIS 설치
+- Install-WindowsFeature -name Web-Server -IncludeManagementTools
+- IIS Manager는 Server Manager 통해서 실행
+- 설치 옵션에서 Windows Authentication을 추가
 
 ### 설치 프로그램
 
