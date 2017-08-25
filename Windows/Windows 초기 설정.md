@@ -123,3 +123,11 @@ Rules -> Manage Rules -> New Rule -> Start from a blank rule -> Apply rule on me
 Outlook Options -> Mail -> Replies and forwards -> Open replies and forwards in a new window 체크
 
 Signature 설정
+
+## 기타
+
+불필요한 Context Menu 항목 지우기
+
+HKCR\*\shellex\ContextMenuHandlers 에서 필요없는 Key를 삭제하면 됨.
+
+> reg DELETE HKCR\*\shellex\ContextMenuHandlers\Adobe.Acrobat.ContextMenu
