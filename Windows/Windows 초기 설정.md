@@ -87,6 +87,7 @@ WebDAV 크기 설정
     * Productivity Power Tools VS2017
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Bandizip](http://bandizip.com)
+ * Settings -> Extraction -> Uncheck *Do not close the progress window after extracting*
 * putty : pin to start 설정
 * [Rufus](https://rufus.akeo.ie/)
 * [DWG TrueView - AutoCAD Viewer](https://www.autodesk.com/products/dwg/viewers#)
