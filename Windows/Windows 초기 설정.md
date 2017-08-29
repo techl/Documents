@@ -101,9 +101,9 @@ WebDAV 크기 설정
 * [Intel RST](https://downloadcenter.intel.com/download/26865/Intel-Rapid-Storage-Technology-Intel-RST-?product=55005)
 * Acrobat
   * SharePoint function disable
-    * REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Adobe\Adobe Acrobat\11.0\FeatureLockDown\cSharePoint" /v bDisableSharePointFeatures /t REG_DWORD /d 1
+    > REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Adobe\Adobe Acrobat\11.0\FeatureLockDown\cSharePoint" /v bDisableSharePointFeatures /t REG_DWORD /d 1
   * Disable the confirmation dialog in the Preferences
-    * REG ADD HKCU\SOFTWARE\Adobe\Adobe Acrobat\11.0\Accessibility /t REG_DWORD /v bCheckReadMode /d 0
+    > REG ADD "HKCU\SOFTWARE\Adobe\Adobe Acrobat\11.0\Accessibility" /t REG_DWORD /v bCheckReadMode /d 0
   * Ctrl + K -> Reading -> Screen Reader Options -> Only read the currently visible pages, uncheck Confirm before tagging documents
 * [PADS Viewer](https://www.pads.com/downloads/pads-pcb-viewer/)
 
