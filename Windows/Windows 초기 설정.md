@@ -65,6 +65,12 @@ WebDAV 크기 설정
 - 50 MB -> 4GB
 > REG ADD HKLM\SYSTEM\CurrentControlSet\Services\WebClient\Parameters /t REG_DWORD /v FileSizeLimitInBytes /d 4294967295
 
+For use Windows PowerShell, you have to run below command
+
+```
+set-executionpolicy remotesigned
+```
+
 ## 초기 설치 프로그램
 
 * Visual Studio 2015 & Update 3 - NetMF용
