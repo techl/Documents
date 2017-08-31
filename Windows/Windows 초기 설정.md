@@ -123,6 +123,8 @@ Rules -> Manage Rules -> New Rule -> Start from a blank rule -> Apply rule on me
 
 Outlook Options -> Mail -> Replies and forwards -> Open replies and forwards in a new window 체크
 
+Outlook Options -> Mail -> Message arrival -> Uncheck Display a Desktop Alert
+
 Signature 설정
 
 ## 기타
