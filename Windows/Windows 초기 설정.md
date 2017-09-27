@@ -113,6 +113,9 @@ set-executionpolicy remotesigned
   * Disable the confirmation dialog in the Preferences
     > REG ADD "HKCU\SOFTWARE\Adobe\Adobe Acrobat\11.0\Accessibility" /t REG_DWORD /v bCheckReadMode /d 0
   * Ctrl + K -> Reading -> Screen Reader Options -> Only read the currently visible pages, uncheck Confirm before tagging documents
+* Adobe Reader
+  * SharePoint function disable
+    > REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Adobe\Acrobat Reader\DC\FeatureLockDown\cSharePoint" /v bDisableSharePointFeatures /t REG_DWORD /d 1
 * [PADS Viewer](https://www.pads.com/downloads/pads-pcb-viewer/)
 
 ## Outlook 기본 설정
