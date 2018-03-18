@@ -14,6 +14,8 @@
 - Ctrl + Mouse Middle : Move
 - Enter : 마지막 커맨드 다시 실행
 - Smart Dimension에서 윈의 끝을 찍을 때는 Shift를 누른다. 안그럼 중심이 선택된다.
+- F5 필터툴바 보이기 - 면필터 등 선택
+- F6 필터해지
 
 ## Tips
 
