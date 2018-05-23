@@ -54,6 +54,10 @@ Snap Assist 끄기
 
 - Multitasking Settings에서 "When I snap a window, show what I can snap next to it" Off
 
+Keyboard Setting
+
+- Region & language settings -> Prefered language -> 한국어 위로
+
 Language for non-Unicode programs
 
 - Region & language settings -> Additional date, time & regional settings -> Region -> Administrative -> Language for non-Unicode programs -> Change system locale...
