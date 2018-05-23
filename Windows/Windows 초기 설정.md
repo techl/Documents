@@ -76,6 +76,7 @@ set-executionpolicy remotesigned
 * Visual Studio 2015 & Update 3 - NetMF용
 * [ThinkPad USB Keyboard with TrakPoint Driver(55Y9025)](https://support.lenovo.com/kr/ko/solutions/migr-73183)
 * [KakaoTalk](http://www.kakao.com/talk/)
+  * Setting -> Alerts -> Pop-up -> Show : None
 * [Slack](https://slack.com/downloads/windows)
 * [notepad++](https://notepad-plus-plus.org/download)
 * Office 2016
