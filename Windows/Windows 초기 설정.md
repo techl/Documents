@@ -75,6 +75,11 @@ For use Windows PowerShell, you have to run below command
 set-executionpolicy remotesigned
 ```
 
+예전 SMB 접속을 위한 설정
+```
+reg add HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\LanmanWorkstation /v AllowInsecureGuestAuth /t REG_DWORD /d 1 /f
+```
+
 ## 초기 설치 프로그램
 
 * Visual Studio 2015 & Update 3 - NetMF용
