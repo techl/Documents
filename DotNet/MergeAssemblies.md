@@ -1,6 +1,6 @@
 # Merge Assemblies 
 
-Add Nuget package 'ILRepack.MSBuild.Task'
+Add Nuget package **'ILRepack.Lib.MSBuild.Task'**
 
 For MSBuild project
 ```
