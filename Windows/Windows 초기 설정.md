@@ -22,6 +22,8 @@ IP, MAC 설정
 
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
+- 이후 Store에서 Ubuntu 설치
+
 Use Developer Features 메뉴에서 Developer mode 선택
 
 ## 초기 설정
