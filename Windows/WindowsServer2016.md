@@ -106,3 +106,6 @@ IIS 설치
 - OneDrive
     설치 후 Context Menu가 안나올 경우 OneDriveSetup.exe /allusers로 설치한다.
     
+### SharePoint 사용시 참고
+
+Explorer View 사용을 위해서는 WebDAV Replicator를 설치해야 한다. Server Manager통해 설치.
