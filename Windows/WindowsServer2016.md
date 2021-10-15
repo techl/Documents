@@ -1,8 +1,8 @@
-## Windows Server 2016 UEFI ¼³Ä¡
+## Windows Server 2016 UEFI ì„¤ì¹˜
 
-¾Æ·¡ ½ºÅ©¸³Æ®·Î USB¸¦ ¸¸µç´Ù.
+ì•„ë˜ ìŠ¤í¬ë¦½íŠ¸ë¡œ USBë¥¼ ë§Œë“ ë‹¤.
 
-ÃâÃ³ : https://gist.github.com/p0w3rsh3ll/9106e3dc1bd2023ee5afd8cd85054613
+ì¶œì²˜ : https://gist.github.com/p0w3rsh3ll/9106e3dc1bd2023ee5afd8cd85054613
 
 WS2016-UEFI-USB-boot-stick.ps1 
 ``` 
@@ -65,12 +65,12 @@ Dismount-DiskImage -ImagePath $iso
 
 ```
 
-¸¸¾à Execution Policy¹®Á¦·Î ½ÇÇàÀÌ ¾ÈµÇ¸é ´ÙÀ½ ¸í·É¾î¸¦ ½ÇÇàÇØÁØ´Ù.
+ë§Œì•½ Execution Policyë¬¸ì œë¡œ ì‹¤í–‰ì´ ì•ˆë˜ë©´ ë‹¤ìŒ ëª…ë ¹ì–´ë¥¼ ì‹¤í–‰í•´ì¤€ë‹¤.
 
 - Set-ExecutionPolicy Unrestricted
 
 
-## Windows Server 2016 ¼³Á¤
+## Windows Server 2016 ì„¤ì •
 
 ### Server Manager
 
@@ -79,21 +79,21 @@ Local Server
 - IE Enhanced Security Configuration : Administrators Off, Users On
 
 
-Remote Desktop ¼³Á¤
+Remote Desktop ì„¤ì •
 
-¹æÈ­º®
-- Remote Desktop ¿¹¿Ü.
-- Ping µÇµµ·Ï ¼³Á¤
+ë°©í™”ë²½
+- Remote Desktop ì˜ˆì™¸.
+- Ping ë˜ë„ë¡ ì„¤ì •
 
 
-DDNS ¼³Á¤ dnszi.com Âü°í
+DDNS ì„¤ì • dnszi.com ì°¸ê³ 
 
-IIS ¼³Ä¡
+IIS ì„¤ì¹˜
 - Install-WindowsFeature -name Web-Server -IncludeManagementTools
-- IIS Manager´Â Server Manager ÅëÇØ¼­ ½ÇÇà
-- ¼³Ä¡ ¿É¼Ç¿¡¼­ Windows AuthenticationÀ» Ãß°¡
+- IIS ManagerëŠ” Server Manager í†µí•´ì„œ ì‹¤í–‰
+- ì„¤ì¹˜ ì˜µì…˜ì—ì„œ Windows Authenticationì„ ì¶”ê°€
 
-### ¼³Ä¡ ÇÁ·Î±×·¥
+### ì„¤ì¹˜ í”„ë¡œê·¸ë¨
 
 - FileZilla
 - Air Video Server HD
@@ -103,4 +103,9 @@ IIS ¼³Ä¡
 - [eMule](http://www.emule-project.net/home/perl/general.cgi?l=1&rm=download)
 - uTorrent
 - JRiver Media Center
+- OneDrive
+    ì„¤ì¹˜ í›„ Context Menuê°€ ì•ˆë‚˜ì˜¬ ê²½ìš° OneDriveSetup.exe /allusersë¡œ ì„¤ì¹˜í•œë‹¤.
+    
+### SharePoint ì‚¬ìš©ì‹œ ì°¸ê³ 
 
+Explorer View ì‚¬ìš©ì„ ìœ„í•´ì„œëŠ” WebDAV Replicatorë¥¼ ì„¤ì¹˜í•´ì•¼ í•œë‹¤. Server Managerí†µí•´ ì„¤ì¹˜.
