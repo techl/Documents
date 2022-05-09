@@ -157,3 +157,14 @@ Signature 설정
 HKCR\*\shellex\ContextMenuHandlers 에서 필요없는 Key를 삭제하면 됨.
 
 > reg DELETE HKCR\*\shellex\ContextMenuHandlers\Adobe.Acrobat.ContextMenu
+
+
+Microsoft Compatibility Telemetry 끄기
+
+- 가끔 CPU를 높게 사용하므로 끄는게 좋다.
+- Diagnostics & feedback 메뉴에서 Feeback frequency를 Never로 변경.
+- 아레와 같이 Registry 추가
+
+> Reg ADD HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection /t REG_DWORD /v AllowTelemetry /d 0
+
+- 이후 재부팅.
