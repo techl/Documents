@@ -7,4 +7,5 @@ Mac 부팅시 Option버튼을 누르고 있으면 USB로 부팅할 수 있다.
 
 ## Trackpad 설정
 Setting -> Trackpad -> Tap with one finger
+
 Accessibility -> Pointer Control -> Trackpad Options -> Use trackpad for dragging
