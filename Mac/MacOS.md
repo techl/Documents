@@ -1,6 +1,10 @@
-# Mac OS ¼³Ä¡
+# Mac OS ì„¤ì¹˜
 
-dmgÆÄÀÏ ¹Þ¾Æ¼­ Rufus·Î USB¿¡ ¾´ ÈÄ ºÎÆÃÇÏ¸é µÉ °Í °°´Ù - Å×½ºÆ® ¾ÈÇÔ.
+dmgíŒŒì¼ ë°›ì•„ì„œ Rufusë¡œ USBì— ì“´ í›„ ë¶€íŒ…í•˜ë©´ ë  ê²ƒ ê°™ë‹¤ - í…ŒìŠ¤íŠ¸ ì•ˆí•¨.
 http://supportdownload.apple.com/download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/Mac_OS_X/downloads/091-19979.20171206.164cee1f-52a7-4829-8f49-810b78a12a2b/macosupd10.13.2.dmg
 
-Mac ºÎÆÃ½Ã Option¹öÆ°À» ´©¸£°í ÀÖÀ¸¸é USB·Î ºÎÆÃÇÒ ¼ö ÀÖ´Ù.
+Mac ë¶€íŒ…ì‹œ Optionë²„íŠ¼ì„ ëˆ„ë¥´ê³  ìžˆìœ¼ë©´ USBë¡œ ë¶€íŒ…í•  ìˆ˜ ìžˆë‹¤.
+
+## Trackpad ì„¤ì •
+Setting -> Trackpad -> Tap with one finger
+Accessibility -> Pointer Control -> Trackpad Options -> Use trackpad for dragging
